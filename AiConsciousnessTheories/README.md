@@ -734,7 +734,7 @@ GOFAC подразумевает физический мир, в котором 
 1. Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language Models are Unsupervised Multitask Learners. Computer Science.
 1. Rescorla, M. (2020). The Computational Theory of Mind. Получено из [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/computational-mind/)
 1. Russel, S. J., & Norvig, P. (2016). Artificial Intelligence. A Modern Approach. Third Edition. Harlow: Pearson Education Limited.
-1. Salazar, H., Hendricks, C., Vintiadis, E., Asoulin, E., Blum, P., Haas, D., . . . Cheng, T. (2019). Introduction to Philosophy: Philosophy of Mind. Rebus Community. Получено из Introduction to Philosophy: PPhilosophy of Mind.
+1. Salazar, H., Hendricks, C., Vintiadis, E., Asoulin, E., Blum, P., Haas, D., Cheng, T. (2019). Introduction to Philosophy: Philosophy of Mind. Rebus Community. Получено из Introduction to Philosophy: PPhilosophy of Mind.
 1. Samuel, J. (1756). A Dictionary of the English language. London.
 1. Scassellati, B. (2002). Theory of Mind for a Humanoid Robot. Autonomous Robots.
 1. Schneider, S., & Velmans, M. (2008). The Blackwell Companion to Consciousness.
