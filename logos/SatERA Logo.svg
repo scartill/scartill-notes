@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="satera.svg">
+   sodipodi:docname="SatERA Logo.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="650.57546"
-     inkscape:cy="664.39134"
+     inkscape:cx="370.34462"
+     inkscape:cy="695.66179"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -72,7 +72,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,51 +80,146 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="opacity:1;fill:#d8eef2;fill-opacity:1;stroke:#4d61c5;stroke-width:0.14999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect885"
+       width="102.43154"
+       height="85.989586"
+       x="100.19241"
+       y="59.441967" />
     <path
-       style="opacity:1;fill:#4d61c5;fill-opacity:1;stroke:#4d61c5;stroke-width:0.1597034;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       d="m 79.329957,77.866566 v 2.58485 a 17.419852,17.419852 0 0 1 11.818918,11.81117 h 2.56522 A 19.920148,19.920148 0 0 0 79.329957,77.866566 Z m -9.790618,0.008 a 19.920148,19.920148 0 0 0 -14.387235,14.38802 h 2.579688 A 17.419852,17.419852 0 0 1 69.539339,80.451416 Z M 55.155205,102.05321 a 19.920148,19.920148 0 0 0 14.384134,14.39601 v -2.58484 a 17.419852,17.419852 0 0 1 -11.8184,-11.81117 z m 35.98282,0 a 17.419852,17.419852 0 0 1 -11.808068,11.81168 v 2.57658 a 19.920148,19.920148 0 0 0 14.387238,-14.38826 z"
-       id="path815-0"
-       inkscape:connector-curvature="0" />
+       style="opacity:1;fill:#3a55d8;fill-opacity:1;stroke:#4d61c5;stroke-width:0.1597034;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 156.30349,77.866566 v 2.58485 a 17.419852,17.419852 0 0 1 11.81892,11.81117 h 2.56522 a 19.920148,19.920148 0 0 0 -14.38414,-14.39602 z m -9.79062,0.008 a 19.920148,19.920148 0 0 0 -14.38724,14.38802 h 2.57969 a 17.419852,17.419852 0 0 1 11.80755,-11.81117 z m -14.38414,24.178654 a 19.920148,19.920148 0 0 0 14.38414,14.396 v -2.58484 a 17.419852,17.419852 0 0 1 -11.8184,-11.81116 z m 35.98283,0 a 17.419852,17.419852 0 0 1 -11.80807,11.81168 v 2.57657 a 19.920148,19.920148 0 0 0 14.38724,-14.38825 z"
+       id="path815-0-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="H:\Libraries\Boris\Desktop\SatERA Logo 600dpi.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <circle
-       style="opacity:1;fill:#4d61c5;fill-opacity:1;stroke:#4d61c5;stroke-width:0.11449507;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path821-6-4"
-       cx="74.434639"
-       cy="97.157906"
-       r="12.442753" />
+       style="opacity:1;fill:#3a55d8;fill-opacity:1;stroke:#4d61c5;stroke-width:0.11449507;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path821-6-4-7"
+       cx="151.40816"
+       cy="97.157898"
+       r="12.442753"
+       inkscape:export-filename="H:\Libraries\Boris\Desktop\SatERA Logo 600dpi.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <circle
-       style="opacity:1;fill:#4d61c5;fill-opacity:1;stroke:#4d61c5;stroke-width:0.02289901;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path821-6-3-3"
-       cx="74.434639"
-       cy="77.78672"
-       r="2.4885504" />
+       style="opacity:1;fill:#3a55d8;fill-opacity:1;stroke:#4d61c5;stroke-width:0.02289901;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path821-6-3-3-1"
+       cx="151.40816"
+       cy="77.786713"
+       r="2.4885504"
+       inkscape:export-filename="H:\Libraries\Boris\Desktop\SatERA Logo 600dpi.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <circle
-       style="opacity:1;fill:#4d61c5;fill-opacity:1;stroke:#4d61c5;stroke-width:0.02289901;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path821-6-3-0-14"
-       cx="93.797035"
-       cy="97.157906"
-       r="2.4885504" />
+       style="opacity:1;fill:#3a55d8;fill-opacity:1;stroke:#4d61c5;stroke-width:0.02289901;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path821-6-3-0-14-0"
+       cx="170.77055"
+       cy="97.157898"
+       r="2.4885504"
+       inkscape:export-filename="H:\Libraries\Boris\Desktop\SatERA Logo 600dpi.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <circle
-       style="opacity:1;fill:#4d61c5;fill-opacity:1;stroke:#4d61c5;stroke-width:0.02289901;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path821-6-3-7-0"
-       cx="74.434639"
+       style="opacity:1;fill:#3a55d8;fill-opacity:1;stroke:#4d61c5;stroke-width:0.02289901;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path821-6-3-7-0-2"
+       cx="151.40816"
        cy="116.52908"
-       r="2.4885504" />
+       r="2.4885504"
+       inkscape:export-filename="H:\Libraries\Boris\Desktop\SatERA Logo 600dpi.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <circle
-       style="opacity:1;fill:#4d61c5;fill-opacity:1;stroke:#4d61c5;stroke-width:0.02289901;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="path821-6-3-2-0"
-       cx="55.072254"
-       cy="97.157906"
-       r="2.4885504" />
+       style="opacity:1;fill:#3a55d8;fill-opacity:1;stroke:#4d61c5;stroke-width:0.02289901;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path821-6-3-2-0-6"
+       cx="132.04578"
+       cy="97.157898"
+       r="2.4885504"
+       inkscape:export-filename="H:\Libraries\Boris\Desktop\SatERA Logo 600dpi.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:HeliosCond;-inkscape-font-specification:'HeliosCond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="56.249714"
-       y="134.1828"
-       id="text989-02"><tspan
+       x="133.22324"
+       y="133.12448"
+       id="text989-02-9"
+       inkscape:export-filename="H:\Libraries\Boris\Desktop\SatERA Logo 600dpi.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
-         id="tspan987-18"
-         x="56.249714"
-         y="134.1828"
+         id="tspan987-18-3"
+         x="133.22324"
+         y="133.12448"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:HeliosCond;-inkscape-font-specification:'HeliosCond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">SatERA</tspan></text>
+    <path
+       style="opacity:1;fill:#3a55d8;fill-opacity:1;stroke:#4d61c5;stroke-width:0.1597034;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 4.8953259,77.866563 v 2.58485 a 17.419852,17.419852 0 0 1 11.8189191,11.81117 h 2.56522 A 19.920148,19.920148 0 0 0 4.8953259,77.866563 Z m -9.7906205,0.008 a 19.920148,19.920148 0 0 0 -14.3872404,14.38802 h 2.57969 A 17.419852,17.419852 0 0 1 -4.8952946,80.451413 Z M -19.279435,102.05322 a 19.920148,19.920148 0 0 0 14.3841404,14.396 v -2.58484 A 17.419852,17.419852 0 0 1 -16.713695,102.05322 Z m 35.982829,0 A 17.419852,17.419852 0 0 1 4.8953259,113.8649 v 2.57657 A 19.920148,19.920148 0 0 0 19.282566,102.05322 Z"
+       id="path815-0-7-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="H:\Libraries\Boris\Desktop\SatERA Circle  600dpi.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <circle
+       style="opacity:1;fill:#3a55d8;fill-opacity:1;stroke:#4d61c5;stroke-width:0.11449507;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path821-6-4-7-0"
+       cx="-7.8435378e-06"
+       cy="97.157898"
+       r="12.442753"
+       inkscape:export-filename="H:\Libraries\Boris\Desktop\SatERA Circle  600dpi.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <circle
+       style="opacity:1;fill:#3a55d8;fill-opacity:1;stroke:#4d61c5;stroke-width:0.02289901;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path821-6-3-3-1-4"
+       cx="-7.8435378e-06"
+       cy="77.786713"
+       r="2.4885504"
+       inkscape:export-filename="H:\Libraries\Boris\Desktop\SatERA Circle  600dpi.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <circle
+       style="opacity:1;fill:#3a55d8;fill-opacity:1;stroke:#4d61c5;stroke-width:0.02289901;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path821-6-3-0-14-0-1"
+       cx="19.362391"
+       cy="97.157898"
+       r="2.4885504"
+       inkscape:export-filename="H:\Libraries\Boris\Desktop\SatERA Circle  600dpi.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <circle
+       style="opacity:1;fill:#3a55d8;fill-opacity:1;stroke:#4d61c5;stroke-width:0.02289901;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path821-6-3-7-0-2-7"
+       cx="-7.8435378e-06"
+       cy="116.52908"
+       r="2.4885504"
+       inkscape:export-filename="H:\Libraries\Boris\Desktop\SatERA Circle  600dpi.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <circle
+       style="opacity:1;fill:#3a55d8;fill-opacity:1;stroke:#4d61c5;stroke-width:0.02289901;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path821-6-3-2-0-6-7"
+       cx="-19.362387"
+       cy="97.157898"
+       r="2.4885504"
+       inkscape:export-filename="H:\Libraries\Boris\Desktop\SatERA Circle  600dpi.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:HeliosCond;-inkscape-font-specification:'HeliosCond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-18.184927"
+       y="133.1245"
+       id="text989-02-9-5"
+       inkscape:export-filename="H:\Libraries\Boris\Desktop\SatERA Logo 600dpi.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         sodipodi:role="line"
+         id="tspan987-18-3-0"
+         x="-18.184927"
+         y="133.1245"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:HeliosCond;-inkscape-font-specification:'HeliosCond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">SatERA</tspan></text>
   </g>
 </svg>
