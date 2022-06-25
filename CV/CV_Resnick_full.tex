@@ -1,0 +1,186 @@
+
+\documentclass[a4paper]{article}
+
+\usepackage[top=0.75in, left=1.0in, right=1.0in, bottom=1.25in]{geometry}
+
+\newcommand{\project}[4]{
+
+	\textbf{\textit{#1}}
+    \vspace{2mm}
+
+    \textit{Roles:} #2
+    \vspace{2mm}
+
+    \textit{Responsibilites:}
+	\begin{itemize}
+	    \setlength{\itemindent}{.5cm}
+	    #3
+    \end{itemize}
+    
+	\textit{Technologies:}
+	\begin{itemize}
+		\setlength{\itemindent}{.5cm}
+		#4
+	\end{itemize}
+}
+
+\begin{document}
+    \thispagestyle{empty}
+    
+	\begin{center}
+		{\Large \textbf{Boris Resnick}\par}
+		\vspace{2mm}
+		{\large \textbf{Systems and Software Architect in A\hspace{-.4mm}viation}\par}
+		\vspace{1.5mm}
+		E-mail: boris.resnick@gmail.com \vspace{1.5mm} \quad \quad
+		Telegram: @scartill \\
+		Cell: +972-53-3825899 \quad \quad
+		Address: Netanya, Israel
+	\end{center}
+	\vspace{-2mm}
+	\rule{\textwidth}{1pt}
+	\vspace{2mm}
+
+	\textbf{SUMMARY}
+	\vspace{5mm}
+
+	Software designer, development manager, and architect working in the aviation, UAS, and aerospace industry for almost two decades. I have built multiple development teams from a scratch and mentored a good deal of superior developers. Insight into the mechanism of industrial aerospace standardization allows me to build systems in a compliant and efficient manner.
+
+	The latest focus was of my work was leveraging 5G networks capabilities to enable BVLOS UAV operations.
+
+	My general experience includes a wide range of skills in automation software design, ground-based aviation navigation and communication systems, GNSS (GPS) Navigation, GIS, and a broad set of programming languages, technologies, and tools.
+
+    \vspace{5mm}
+	\textbf{PROFESSIONAL EXPERIENCE}
+	\vspace{5mm}
+
+	\textbf{Glonass Union} (Navigation and communications systems integrator) \hfill \textit{Nov 2019 -- March 2022}
+
+    \vspace{2mm}
+	Technical Director, Aerospace Systems \\
+	
+	\project{Cellular-based UTM infrastructure for unmanned aviation systems BVLOS flights}{
+		Program Systems Architect
+	}{
+		\item Develop a Concept of Operations for urban air mobility in regards to communications, navigation, surveillance and flight information services 
+		\item Define 5G-based mechanisms to support the Concept
+		\item Establish general system of systems architecture and open data exchange protocols
+		\item Facilitate multi-project collaboration (UTM companies, UAS companies, connectivity providers, regulation bodies - more than 20 entities altogether)
+	}{
+		\item Concept and architecture: SysML and other visual tools, SOA
+		\item Data exchange protocols: JSON, ASN.1
+	}
+    
+    \vspace{3mm}
+    \textbf{IANS Inc.} (Medium-sized aviation R\&D company) \hfill \textit{ Jul 2013 -- Oct 2019}
+
+    \vspace{3mm}
+	Director, Software Development. Managed and supervised multiple projects (40 developers overall). Some of projects are presented below.\\
+    \vspace{2mm}
+
+	\project{Ground-based wake vortex safety system for Changi Airport (Singapore)}{
+		Engineering Manager
+	}{
+		\item Provide general technical leadership for a team, couch software developers
+		\item Supervise a project manager and support people management
+		\item Define project architecture, choose technologies, develop system and software requirements
+		\item Supervise in-house hardware development, coordinate with external hardware providers
+		\item Supervise deployment and coordinate with a customer and regulation, ensure successful Site Acceptance Testing
+	}{
+		\item Hardware: scanning Doppler lidars, GNSS time synchronization, ADS-B receivers
+		\item Software: Golang (backend), Qt/C++ (frontend), CouchDB, Postgres, microservice architecture, VEEAM backup technology, Linux
+	}
+    \vspace{2mm}
+
+	\project{Advanced mobile meteorological and hazard awareness system}{
+		Software Engineering Manager
+	}{
+		\item Provide general technical leadership for a team
+		\item Supervise a project manager
+		\item Define project architecture, choose technologies, developer system and software requirements, define software-hardware interfaces
+		\item Coordinate with hardware team
+	}{
+		\item Hardware: Lidar, Radar, Wind profile sensor, GNSS positioning and attitude, optical detectors, vehicle stabilisation system, hardware security modules, digital radios etc.
+		\item Software: Golang (backend), Qt/C++ (frontend), GIS (OpenStreetMap/Proprietary), Postgres, Linux
+	}
+    \vspace{2mm}
+
+	\project{Wide-zone aircraft tracking system}{
+		Lead software developer
+	}{
+		\item Define software architecture
+		\item Build critical software modules
+		\item Lead and couch a software team (10 developers)
+	}{
+		\item Erlang/OTP (backend), Javascript, Google Maps API (frontend), Linux
+		\item Interfaces with Iridium Satellite communications, GNSS synchronization, ATN, ACARS, FANS (aviation telecommunications technologies)
+	}
+    
+    \vspace{3mm}
+    \textbf{NPPF Spectr} (Small-sized aviation systems development company) \hfill \textit{Jan 2007 -- Jun 2013}
+
+    \vspace{2mm}
+	Head of Software Development Department. One of the projects is presented below.\\
+    \vspace{2mm}
+
+	\project{DGNSS navigational equipment (GBAS ground station)}{
+		Lead software developer
+	}{
+		\item Define software architecture
+		\item Implement GNSS signal processing, including Data Quality Monitor, Signal Quality Monitor, Signal Distortion and Jamming Detection
+		\item Build core real-time software component
+		\item Support early deployment and adoption
+		\item Lead and couch the software team (5 developers)
+	}{
+		\item Hardware: Javad and Novatel high-end GNSS receivers, VHF-band radios
+		\item Erlang/OTP, QNX
+	}
+    
+    \vspace{3mm}
+    \textbf{OTHER ACTIVITIES}
+    \vspace{3mm}
+
+	\begin{itemize}
+	    \setlength{\itemindent}{.5cm}	
+	    \item \textbf{RTCA} -- Wake Vortex Tiger Team -- Contributing Member
+	    \item \textbf{EUROCAE} -- WG-76 AIS/MET Datalink Applications -- Chairman (2014 -- 2020)
+	    \item \textbf{EUROCAE} -- WG-105 SC-2 C3 for UAS -- Chairman (2021 -- present time)
+	    \item \textbf{GUTMA} -- Aerial Connectivity Joint Activity -- Work Task 4 Lead (2020 -- 2021)
+	    \item Multiple R\&D pet projects (e.g. wake vortex CNN detector)
+    \end{itemize}
+    \vspace{3mm}
+    
+    \textbf{EDUCATION}
+    \vspace{3mm}
+    
+    Faculty of Computational Mathematics and Cybernetics, Moscow State University, 1999 -- 2004.
+    \vspace{5mm}
+    
+    \textbf{SKILLS SUMMARY}
+    \vspace{3mm}
+    
+    \textbf{General}:
+	\begin{itemize}
+		\item Multi-project team development and leadership
+		\item GNSS and navigation
+		\item Avionics and CNS/ATM systems
+		\item UAS BVLOS connectivity and UTM systems
+		\item Safety-critical software development
+	\end{itemize}
+    \vspace{3mm}
+    
+    \textbf{Software development experience}: 
+	\begin{itemize}
+		\item General-purpose and embedded operating systems (Multiple ARINC-653 RTOSes, Linux, QNX, Windows)
+		\item Extensive list of programming languages and tools (including C/C++, C\#, Python, Julia, Matlab, Golang, Kotlin)
+		\item Cloud architectures (AWS)
+	\end{itemize}
+    \vspace{5mm}
+    
+    \textbf{LANGUAGES:} English (fluent), Russian (native).
+
+    \vspace{5mm}
+
+	\textbf{LINKEDIN:} https://www.linkedin.com/in/boris-resnick/
+
+\end{document}
