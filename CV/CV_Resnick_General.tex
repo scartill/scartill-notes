@@ -1,0 +1,173 @@
+\documentclass[a4paper]{article}
+
+\usepackage[top=0.75in, left=1.0in, right=1.0in, bottom=1.25in]{geometry}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+\newcommand{\project}[4]{
+
+	\textbf{\textit{#1}}
+    \vspace{2mm}
+
+    \textit{Roles:} #2
+    \vspace{2mm}
+
+    \textit{Responsibilities:}
+	\begin{itemize}
+	    \setlength{\itemindent}{.5cm}
+	    #3
+    \end{itemize}
+    
+	\textit{Technologies:}
+	\begin{itemize}
+		\setlength{\itemindent}{.5cm}
+		#4
+	\end{itemize}
+}
+
+\begin{document}
+    \thispagestyle{empty}
+    
+	\begin{center}
+		{\Large \textbf{Boris Resnick}\par}
+		\vspace{2mm}
+		{\large \textbf{Systems and Software Architect}\par}
+		\vspace{1.5mm}
+		E-mail: boris.resnick@gmail.com \vspace{1.5mm} \quad \quad
+		Telegram: @scartill \\
+		Cell: +972-53-3825899 \quad \quad
+		Address: Netanya, Israel \quad \quad \href{https://www.linkedin.com/in/boris-resnick/}{LinkedIn}
+	\end{center}
+	\vspace{-2mm}
+	\rule{\textwidth}{1pt}
+	\vspace{2mm}
+
+	\textbf{SUMMARY}
+	\vspace{5mm}
+
+	Software designer, development manager, and architect with two decades of experience building complex, scalable systems from the ground up. I have a proven track record of creating new development teams and mentoring top-tier engineers to deliver high-quality, efficient software solutions. My expertise includes leveraging new technologies to solve complex problems, managing large-scale, multi-vendor collaborations, and architecting robust systems that are both compliant and highly performant. I am now leveraging this experience to advise on data-driven and AI-supported solutions in new industries, with a specific interest in online retail.
+    
+    \vspace{5mm}
+	\textbf{PROFESSIONAL EXPERIENCE}
+	\vspace{5mm}
+
+	\textbf{Flyvercity} (Cellular-based Unmanned Traffic Services Vendor) \hfill \textit{July 2022 -- present}
+
+    \vspace{2mm}
+	Chief Technical Officer\\
+
+	\project{Edge-Based Application for Real-Time Deconfliction and Network Identification}{
+		Technical Lead
+	}{
+		\item Designed and developed deconfliction software for real-time data processing
+		\item Designed and developed a comprehensive simulation environment for testing and validation
+	}{
+		\item Core software: Rust
+		\item Simulation environment: Python, QGIS
+	}
+
+    \vspace{2mm}
+
+	\textbf{Glonass Union} (Navigation and communications systems integrator) \hfill \textit{Nov 2019 -- March 2022}
+
+    \vspace{2mm}
+	Technical Director, Systems Architect \\
+	
+	\project{Scalable infrastructure for real-time data exchange}{
+		Program Systems Architect
+	}{
+		\item Developed a Concept of Operations for urban data exchange, focusing on communication, location, and information services
+		\item Defined mechanisms to support the Concept, leveraging 5G network capabilities
+		\item Established a general system-of-systems architecture and open data exchange protocols
+		\item Facilitated multi-project collaboration across more than 20 entities
+	}{
+		\item Architecture: SysML and other visual tools, Service-Oriented Architecture (SOA)
+		\item Data exchange protocols: JSON, ASN.1
+	}
+    
+    \vspace{3mm}
+    \textbf{IANS Inc.} (Medium-sized R\&D company) \hfill \textit{ Jul 2013 -- Oct 2019}
+
+    \vspace{3mm}
+	Director, Software Development. Managed and supervised multiple projects (40 developers overall). Some of projects are presented below.\\
+    \vspace{2mm}
+
+	\project{Ground-based safety system for real-time data analysis}{
+		Engineering Manager
+	}{
+		\item Provided technical leadership for a software team and mentored developers
+		\item Defined project architecture, chose technologies, and developed system requirements
+		\item Supervised and coordinated with internal and external hardware teams
+		\item Coordinated with customers and regulatory bodies to ensure successful system deployment and acceptance testing
+	}{
+		\item Software: Golang (backend), Qt/C++ (frontend), CouchDB, Postgres, microservice architecture, VEEAM backup technology, Linux
+	}
+ 
+    \vspace{2mm}
+
+	\project{Advanced mobile meteorological and hazard awareness system}{
+		Software Engineering Manager
+	}{
+		\item Provided general technical leadership for a team
+		\item Defined project architecture, chose technologies, and developed system requirements, including software-hardware interfaces
+		\item Coordinated with hardware teams
+	}{
+		\item Software: Golang (backend), Qt/C++ (frontend), GIS (OpenStreetMap/Proprietary), Postgres, Linux
+	}
+    \vspace{2mm}
+
+	\project{Wide-zone tracking system}{
+		Lead software developer
+	}{
+		\item Defined and implemented a robust software architecture
+		\item Developed critical software modules for large-scale tracking
+		\item Led and mentored a software team of 10 developers
+	}{
+		\item Erlang/OTP (backend), Javascript, Google Maps API (frontend), Linux
+		\item Interfaces with complex satellite and telecommunication protocols 
+	}
+    
+    \vspace{3mm}
+    \textbf{OTHER PROJECTS AND ACTIVITIES}
+    \vspace{3mm}
+
+	\begin{itemize}
+	    \setlength{\itemindent}{.5cm}	
+	    \item {\b Embyad.com} focused on online ads and streaming technology (technical partner)
+        \item {\b Wake Vortex CNN Detector} -- R\&D project applying Convolutional Neural Networks for data analysis
+	    \item {\b GUTMA} -- Aerial Connectivity Joint Activity -- Work Task 4 Lead (2020 -- present)
+    \end{itemize}
+    \vspace{3mm}
+    
+    \textbf{EDUCATION}
+    \vspace{3mm}
+    
+    Faculty of Computational Mathematics and Cybernetics, Moscow State University, 1999 -- 2004.
+    \vspace{5mm}
+    
+    \textbf{SKILLS SUMMARY}
+    \vspace{3mm}
+    
+    \textbf{Architectural \& Leadership}:
+	\begin{itemize}
+		\item Multi-project team development and leadership 
+		\item Systems Architecture (SOA, Microservices)
+		\item Agile Methodologies (Kanban)
+		\item Problem-solving and complex system integration
+	\end{itemize}
+    \vspace{3mm}
+    
+    
+    \textbf{Technical Proficiency}: 
+	\begin{itemize}
+		\item Programming Languages: Rust, Golang, Python, Erlang/OTP, C/C++, C\#, JavaScript, Matlab, Kotlin
+		\item Cloud: AWS 
+		\item Databases: Postgres, CouchDB
+		\item Operating Systems: Linux, QNX, Windows, ARINC-653
+		\item Data and GIS: GNSS/GPS, GIS (OpenStreetMap), CNN
+	\end{itemize}
+    \vspace{5mm}
+    
+    \textbf{LANGUAGES:} English (fluent), Russian (native), Hebrew (intermediate)
+
+\end{document}
